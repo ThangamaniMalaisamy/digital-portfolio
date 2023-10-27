@@ -116,7 +116,7 @@ nav.sticky .menu-btn{
 .home{
   height: 100vh;
   width:100%;
-  background: url("file:///C:/Users/Admin/Documents/foundation/project/project1/Untitled.png");
+  background: url("./Untitled.png");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
